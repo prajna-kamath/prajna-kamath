@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @prajna-kamath
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
+ I’m @prajna-kamath
+
+student
 
 
 
